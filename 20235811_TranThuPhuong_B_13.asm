@@ -1,3 +1,4 @@
+#	Đề bài: Nhập mảng số nguyên từ bàn phím. In ra màn hình số các phần tử có giá trị khác nhau trong mảng.
 .data
 array: .space 400 # Cấp phát 400 byte để lưu mảng (tối đa 100 phần tử số nguyên 4 byte)
 msg1: .asciz "Nhap do dai mang n: "
