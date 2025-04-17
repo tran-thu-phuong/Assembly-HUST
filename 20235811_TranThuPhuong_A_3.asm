@@ -1,3 +1,4 @@
+#-	Đề bài: Viết hàm kiểm tra một số có phải là số nguyên tố không. Sau đó nhập 2 số nguyên dương M và N từ bàn phím, in ra tất cả các số nguyên tố trong đoạn từ M đến N.
 .data
 nhapm: .asciz "Nhap so nguyen M: "
 nhapn: .asciz "Nhap so nguyen N: "
