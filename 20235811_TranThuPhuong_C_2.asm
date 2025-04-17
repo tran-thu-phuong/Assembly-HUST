@@ -1,3 +1,4 @@
+#	Đề bài: Nhập vào xâu ký tự. In ra các ký tự khác nhau có trong xâu.
 .data
 string: .space 400 # Vùng nhớ để lưu xâu người dùng nhập (tối đa 400 byte)
 dem: .space 400 # Mảng để đánh dấu các ký tự đã xuất hiện
